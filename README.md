@@ -25,7 +25,7 @@
 * [Environment Setup Guide](#environment-setup-guide)
 * [Why Java Full Stack?](#why-java-full-stack)
 * [Recommended Resources](#-recommended-resources)
-* [Your Contribution Workflow](#contribution)
+* [Your Contribution Workflow](#your-contribution-workflow)
 * [License](#license)
 * [Let's Connect & Interact!](#lets-connect--interact)
 
