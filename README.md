@@ -1,11 +1,10 @@
 <h1 align="center">Welcome to JavaFullStack!</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sangram+Majhi!;Your+Complete+Java+Full+Stack+Journey!;Unlock+Your+Full+Stack+Potential!;From+Core+to+Advanced+Development;Mastering+Spring,+Frontend,+Databases;Building+Scalable+Applications!;Let's+Build+the+Future+of+Software,+Together!;Prepare+for+Success" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sangram+Majhi!;Your+Complete+Java+Full+Stack+Journey!;Unlock+Your+Full+Stack+Potential!;From+Core+to+Advanced+Development;Mastering+Spring,+Frontend,+Databases;Building+Scalable+Applications!;Let's+Build+the+Future+of+Software,+Together!;Prepare+for+Success" alt="Typing SVG" />
 </p>
 
-<p align="center">A comprehensive repository for mastering the entire Java Full Stack development journey, curated by Sangram Majhi.</p>
+<p align="center">A comprehensive repository for mastering the entire Java Full Stack development journey, created by Sangram Majhi.</p>
 
 <p align="center">
   <a href="https://github.com/yujiroxangram/JavaFullStack/stargazers">
@@ -15,7 +14,6 @@
     <img src="https://img.shields.io/github/forks/yujiroxangram/JavaFullStack?style=for-the-badge&logo=github&color=2088FF" alt="GitHub Forks">
   </a>
 </p>
-
 ---
 
 ## Table of Contents
