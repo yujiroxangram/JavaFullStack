@@ -25,7 +25,7 @@
 * [Environment Setup Guide](#environment-setup-guide)
 * [Why Java Full Stack?](#why-java-full-stack)
 * [Recommended Resources](#-recommended-resources)
-* [Contribution](#contribution)
+* [Your Contribution Workflow](#contribution)
 * [License](#license)
 * [Let's Connect & Interact!](#lets-connect--interact)
 
@@ -307,7 +307,7 @@ Begin or advance your mastery of Spring with hands-on courses created by experts
 * *Add your other favorite web resources here!*
 ---
 
-## Your Contribution Workflow (Step-by-Step for Collaborators)
+## Your Contribution Workflow
 
 Contributions are always welcome! We strive to maintain a high quality and clear understanding of all changes.
 This repository encourages contributions! Please follow this standard workflow to ensure your changes can be reviewed and merged efficiently.
