@@ -22,7 +22,7 @@
 * [Project Overview & Modules](#project-overview--modules)
 * [Core Tech Stack](#core-tech-stack-used--covered)
 * [How to Use This Repository](#how-to-use-this-repository)
-* [Environment Setup Guide](#environment-setup-guide)
+* [🚀 Environment Setup Guide](#--environment-setup-guide)
 * [Why Java Full Stack?](#why-java-full-stack)
 * [Recommended Resources](#-recommended-resources)
 * [Your Contribution Workflow](#your-contribution-workflow)
