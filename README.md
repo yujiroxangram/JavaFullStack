@@ -108,7 +108,7 @@ This repository is meticulously structured to guide you through the entire Java 
 
 ---
 
-## 🚀 Environment Setup Guide
+## Environment Setup Guide
 
 This guide will walk you through setting up your Java development environment, choosing an Integrated Development Environment (IDE), and understanding the fundamental Git & GitHub workflow for effective collaboration.
 
