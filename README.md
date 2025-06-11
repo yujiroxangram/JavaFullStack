@@ -22,7 +22,7 @@
 * [Project Overview & Modules](#project-overview--modules)
 * [Core Tech Stack](#core-tech-stack-used--covered)
 * [How to Use This Repository](#how-to-use-this-repository)
-* [🚀 Environment Setup Guide](#--environment-setup-guide)
+* [Environment Setup Guide](#environment-setup-guide)
 * [Why Java Full Stack?](#why-java-full-stack)
 * [Recommended Resources](#-recommended-resources)
 * [Your Contribution Workflow](#your-contribution-workflow)
@@ -108,7 +108,7 @@ This repository is meticulously structured to guide you through the entire Java 
 
 ---
 
-## 🚀 Environment Setup Guide
+## Environment Setup Guide
 
 This guide will walk you through setting up your Java development environment, choosing an Integrated Development Environment (IDE), and understanding the fundamental Git & GitHub workflow for effective collaboration.
 
