@@ -1,0 +1,43 @@
+// Define an abstract class
+abstract class Animal {
+    // Abstract method (no implementation in the abstract class)
+    public abstract void makeSound();
+
+    // Concrete method (has implementation) this is possible after java 8
+    public void sleep() {
+        System.out.println("Zzz...");
+    }
+}
+
+// Subclass implementing the abstract class
+class Dog extends Animal {
+    // Provide implementation for the abstract method
+    @Override
+    public void makeSound() {
+        System.out.println("Woof");
+    }
+}
+
+// Subclass implementing the abstract class
+class Cat extends Animal {
+    // Provide implementation for the abstract method
+    @Override
+    public void makeSound() {
+        System.out.println("Meow");
+    }
+}
+
+public class AbstractionExample {
+    public static void main(String[] args) {
+        // Create objects of the concrete subclasses
+        Animal myDog = new Dog();
+        Animal myCat = new Cat();
+
+        // Call methods
+        myDog.makeSound(); // Output: Woof
+        myDog.sleep();     // Output: Zzz...
+
+        myCat.makeSound(); // Output: Meow
+        myCat.sleep();     // Output: Zzz...
+    }
+}
