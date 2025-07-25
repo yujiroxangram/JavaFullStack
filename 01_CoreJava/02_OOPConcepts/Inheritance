@@ -1,0 +1,19 @@
+class Animal{
+  public void eat(){
+    System.out.println("animal eats everyday");
+  }
+}
+
+class Dog extends Animal {
+  @Override // @Override annotation is used to Provide Specific Implementation and also Achieve Runtime Polymorphism.
+  public void eat(){
+    System.out.println("dog eat bones");
+  }
+}
+
+public class Demo{
+  public static void main(String args[]){
+    Dog dog = new Dog();
+    dog.eat(); // Calls the Dog Overriden method and prints "dog eat bones"
+  }
+}
