@@ -376,18 +376,16 @@ This repository encourages contributions! Please follow this standard workflow t
 
 ---
 
+---
 ## Let's Connect & Interact!
-
 Have questions, feedback, or need help? There are several ways to engage with me and the community:
-
 * **Open an Issue:** For bug reports, feature requests, or specific technical questions, please feel free to [open a new issue here](https://github.com/yujiroxangram/JavaFullStack/issues).
 * **Start a Discussion:** For broader questions, ideas, or to connect with other learners, consider visiting the [GitHub Discussions](https://github.com/yujiroxangram/JavaFullStack/discussions) (if enabled for this repo).
 * **Connect on LinkedIn:** Feel free to reach out directly on LinkedIn for professional inquiries or networking.
-
 <p align="center">
   <a href="https://github.com/yujiroxangram" target="_blank"><img src="https://img.shields.io/badge/GitHub-yujiroxangram-181717?style=for-the-badge&logo=github" alt="GitHub Profile"></a>
   <a href="https://www.linkedin.com/in/sangram-majhi-67147528b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sangram%20Majhi-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"></a>
   <a href="https://youtube.com/@cse099?si=B-NJ5Vt6jT3K8_kA" target="_blank"><img src="https://img.shields.io/badge/YouTube-CSEngineer-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel - CSEngineer"></a>
+  <a href="https://leetcode.com/u/Xangram99/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Xangram99-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode Profile"></a>
 </p>
-
 ---
