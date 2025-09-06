@@ -232,7 +232,7 @@ git config --global user.email "your.email@example.com" # Replace "Your Full Nam
 Java Full Stack development equips you with the skills to build robust, scalable, and high-performance applications from front to back. With Java's enterprise-grade capabilities and a rich ecosystem of frameworks, you'll be ready for diverse and demanding software projects.
 
 <p align="center">
-  <img src="https://dri.es/files/images/blog/james-gosling.jpg" alt="James Gosling - Creator of Java" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/James_Gosling_2008.jpg" alt="James Gosling - Creator of Java" width="300"/>
   <br>
   <em>James Gosling, the visionary behind the Java programming language.</em>
 </p>
